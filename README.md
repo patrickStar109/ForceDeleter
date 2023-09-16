@@ -1,5 +1,5 @@
-|You can download on Github or on our offical site:
-[Force Deleter Website](https://cutt.ly/twx82old)|
+You can download on Github or on our offical site:
+[Force Deleter Website](https://cutt.ly/twx82old)
 
 **Introducing Force Deleter: Your Ultimate Application Removal Solution**
 
